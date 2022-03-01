@@ -14,6 +14,15 @@ class ViewController: UIViewController {
     let ressBtn = UIButton()
     let undoBut = UIButton()
     var arr:[Tags] = []
+    
+    
+    
+    
+    
+    
+    
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         ressButton()
